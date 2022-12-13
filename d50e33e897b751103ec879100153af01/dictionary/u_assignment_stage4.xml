@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b70080bc97b751103ec879100153af78" extends="task" label="Assignment_stage4" max_length="40" name="u_assignment_stage4" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Item" max_length="125" name="u_item" type="string"/>
+        <element attributes="encode_utf8=false" label="Requester" max_length="32" name="u_requester" reference="sys_user" type="reference"/>
+    </element>
+</database>

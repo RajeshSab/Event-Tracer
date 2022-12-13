@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 09:45:26</sys_created_on>
+        <sys_id>e81000f897b751103ec879100153afe4</sys_id>
+        <sys_name>u_assignment_stage4.users</sys_name>
+        <sys_package display_value="Assignment App" source="d50e33e897b751103ec879100153af01">d50e33e897b751103ec879100153af01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Assignment App">d50e33e897b751103ec879100153af01</sys_scope>
+        <sys_security_acl display_value="u_assignment_stage4">281000f897b751103ec879100153afe2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e81000f897b751103ec879100153afe4</sys_update_name>
+        <sys_user_role display_value="users" name="users">d89e7fe497b751103ec879100153af56</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Work for assignment4</description>
+        <device_type>browser</device_type>
+        <hint>Work for assignment4</hint>
+        <name/>
+        <order/>
+        <roles>users</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 09:46:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9960c03c97b751103ec879100153af84</sys_id>
+        <sys_name>Assignment App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Assignment App" source="d50e33e897b751103ec879100153af01">d50e33e897b751103ec879100153af01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Assignment App">d50e33e897b751103ec879100153af01</sys_scope>
+        <sys_update_name>sys_app_application_9960c03c97b751103ec879100153af84</sys_update_name>
+        <title>Assignment App</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
